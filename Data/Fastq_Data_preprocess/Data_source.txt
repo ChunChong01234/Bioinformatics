@@ -1,0 +1,4 @@
+The fastq file is empty, too big to upload, u can download here.
+
+Data source:
+https://www.ncbi.nlm.nih.gov/Traces/study/?acc=SRP101277&o=acc_s%3Aa

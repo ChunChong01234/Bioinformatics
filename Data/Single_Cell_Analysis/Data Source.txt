@@ -1,0 +1,3 @@
+The file is empty. Just preprocess the file into 3 file, barcodes.tsv, features.tsv, matrix.mtx. Data can be downloaded here.
+
+https://www.ncbi.xyz/geo/query/acc.cgi?acc=GSE267926
